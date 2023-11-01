@@ -5123,8 +5123,8 @@ recipes:
     type: REPAIR
     input:
       debris:
-        material: ANCIENT_DEBRIS
-        amount: 8
+        material: NETHERITE_INGOT
+        amount: 1
       diamond:
         material: DIAMOND
         amount: 1
